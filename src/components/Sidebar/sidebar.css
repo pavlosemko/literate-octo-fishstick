@@ -1,0 +1,3 @@
+.sidebar {
+  @apply bg-slate-400 w-1/4 min-h-fit;
+}
